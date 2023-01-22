@@ -113,15 +113,6 @@
                     <span>Barang Keluar</span>
                 </a>
             </li>
-
-            <!-- Divider -->
-            <hr class="sidebar-divider">
-
-            <!-- Heading -->
-            <div class="sidebar-heading">
-                Report
-            </div>
-
            
             <?php if (is_admin()) : ?>
                 <!-- Divider -->
